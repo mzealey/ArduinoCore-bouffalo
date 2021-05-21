@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinobouffalo",
+    "description": "Arduino Wiring-based Framework (BL602 Core)",
+    "url": "https://github.com/mzealey/ArduinoCore-bouffalo",
+    "version": "0.0.1-dev"
+}
